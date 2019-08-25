@@ -479,7 +479,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.4.0)
     stackprof (0.2.12)
-    sucker_punch (2.1.1)
+    sucker_punch (2.1.2)
       concurrent-ruby (~> 1.0)
     thin (1.7.2)
       daemons (~> 1.0, >= 1.0.9)
