@@ -146,10 +146,8 @@ GEM
       beaneater (~> 1.0)
       concurrent-ruby (~> 1.0, >= 1.0.1)
       dante (> 0.1.5)
-    bcrypt (3.1.12)
-    bcrypt (3.1.12-java)
-    bcrypt (3.1.12-x64-mingw32)
-    bcrypt (3.1.12-x86-mingw32)
+    bcrypt (3.1.13)
+    bcrypt (3.1.13-java)
     beaneater (1.0.0)
     benchmark-ips (2.7.2)
     blade (0.7.1)
@@ -543,7 +541,7 @@ DEPENDENCIES
   aws-sdk-sns
   azure-storage-blob
   backburner
-  bcrypt (~> 3.1.11)
+  bcrypt (~> 3.1.13)
   benchmark-ips
   blade
   blade-sauce_labs_plugin
