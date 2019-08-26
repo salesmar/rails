@@ -12,7 +12,7 @@ gem "rake", ">= 11.1"
 gem "capybara", ">= 3.26"
 gem "selenium-webdriver", ">= 3.141.592"
 
-gem "rack-cache", "~> 1.2"
+gem "rack-cache", "~> 1.9"
 gem "sass-rails"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0", require: ENV["SKIP_REQUIRE_WEBPACKER"] != "true"
