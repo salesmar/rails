@@ -368,8 +368,8 @@ GEM
       thor
     raabro (1.1.6)
     racc (1.4.15)
-    rack (2.0.7)
-    rack-cache (1.8.0)
+    rack (2.2.2)
+    rack-cache (1.11.1)
       rack (>= 0.4)
     rack-protection (2.0.5)
       rack
@@ -573,7 +573,7 @@ DEPENDENCIES
   queue_classic!
   qunit-selenium
   racc (>= 1.4.6)
-  rack-cache (~> 1.2)
+  rack-cache (~> 1.11)
   rails!
   rake (>= 11.1)
   redcarpet (~> 3.2.3)
