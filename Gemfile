@@ -19,7 +19,7 @@ gem "webpacker", "~> 4.0", require: ENV["SKIP_REQUIRE_WEBPACKER"] != "true"
 # require: false so bcrypt is loaded only when has_secure_password is used.
 # This is to avoid Active Model (and by extension the entire framework)
 # being dependent on a binary library.
-gem "bcrypt", "~> 3.1.11", require: false
+gem "bcrypt", "~> 3.1.16", require: false
 
 # This needs to be with require false to avoid it being automatically loaded by
 # sprockets.
