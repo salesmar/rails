@@ -191,7 +191,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.8)
     connection_pool (2.2.2)
     cookiejar (0.3.3)
     crack (0.4.3)
@@ -479,7 +479,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (1.4.0)
     stackprof (0.2.12)
-    sucker_punch (2.1.1)
+    sucker_punch (3.0.1)
       concurrent-ruby (~> 1.0)
     thin (1.7.2)
       daemons (~> 1.0, >= 1.0.9)
